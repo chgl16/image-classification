@@ -11,7 +11,7 @@ driver = webdriver.Firefox()
 根据系统下载好，放在火狐浏览器安装跟目录，如  
 *C:\Program Files\Mozilla Firefox\geckodriver.exe*  
 **并且需要配置环境变量到path**
-
+<hr>
 
 ### 2. 代码关键配置项
 ```python
@@ -22,6 +22,7 @@ SEARCH_KEY_WORDS = ['路飞','娜美', '索隆', '乔巴', '罗宾']
 #页数
 PAGE_NUM = 12
 ```
+<hr>
 
 ### 3. 检索路径
 检索的是google图片搜索
